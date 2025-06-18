@@ -1,6 +1,6 @@
 # TechMovil-web
 
-TechMovil es una web donde encontrarás comparativas de móviles con la mejor relación calidad-precio, además de noticias sobre sistemas operativos como iOS 18, Android, HyperOS, etc.
+TechMovil es una web donde encontrarás comparativas de móviles con la mejor relación calidad-precio, además de noticias sobre sistemas operativos como iOS, Android, HyperOS, etc.
 
 ## ¿Qué ofrece esta web?
 
