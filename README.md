@@ -9,4 +9,3 @@ TechMovil es una web donde encontrarás comparativas de móviles con la mejor re
 - Enlaces de compra con Amazon Afiliados
 - Noticias y novedades del mundo móvil
 
-¡Gracias por visitar TechMovil!
